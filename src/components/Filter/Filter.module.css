@@ -1,0 +1,19 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    border: 2px solid violet;
+    border-radius: 8px;
+    padding: 30px;
+    font-weight: 700;
+    color: indianred;
+  }
+  
+  .input {
+    margin-top: 5px;
+    padding: 5px;
+    color: indianred;
+    border: 1px solid violet;
+    border-radius: 4px;
+    outline: none;
+  }

@@ -1,0 +1,25 @@
+.list {
+    color: indianred;
+    font-weight: 700;
+  }
+  
+  .phonenumber {
+    font-weight: 400;
+  }
+  
+  .button {
+    margin: 10px 0 10px 30px;
+    padding: 5px 10px 5px 10px;
+    color: indianred;
+    background-color: lightgoldenrodyellow;
+    font-weight: 700;
+    outline: none;
+    border: 1px solid violet;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: rgb(193, 156, 228);
+    color: lightgoldenrodyellow;
+  }
